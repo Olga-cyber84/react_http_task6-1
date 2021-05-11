@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  display: flex;
+}
+
+.field-element,
+.title-element {
+  width: 150px;
+  margin: 15px;
+}
+
+input {
+  width: 100%;
+}
